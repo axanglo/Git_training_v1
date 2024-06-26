@@ -1,2 +1,2 @@
 prueba 2
-sdfgdsg
+sdfgdsgPrueba stash 1 en archivo 2 -main
